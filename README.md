@@ -14,7 +14,7 @@
 
 ### 项目地址
 
-[https://github.com/Mcbai/WeChat-bot](https://github.com/Mcbai/WeChat-bot)
+[https://github.com/LeanderY/wechat-bot/edit/master/README.md](https://github.com/LeanderY/wechat-bot)
 
 ### 使用库
 
